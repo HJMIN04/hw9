@@ -1,4 +1,4 @@
-Ship [] aa, bb, cc;
+Ship [] aa;
 pikachu ss;
 int goal = 0, dead = 0, keeptext = 0;
 void setup(){
